@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This app is a shortenet version of TheMovieDB App. It's only purpose is to gain more experience in React Native programming.",
+    "githubUrl": "https://github.com/YanAnderson-bit/TheMovieDB-Example-App"
   }
 }
