@@ -10,7 +10,6 @@ const SearchBar = props =>{
         <TouchableHighlight onPress={Keyboard.dismiss()} 
             style={styles.buttonSearch}
             underlayColor='#ccc'
-            onPress={() =>{console.log("oi")}}
         >
         <Text style={{color:'white',fontWeight:'bold'}}>Search</Text>
         </TouchableHighlight>
