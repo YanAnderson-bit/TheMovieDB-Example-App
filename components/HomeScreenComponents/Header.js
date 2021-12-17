@@ -9,7 +9,7 @@ import {HeaderContainer} from '../../styles/HeaderContainer'
 
 function  Header() {
 
-    const orientation = useOrientation();
+    
 
    
     return(
